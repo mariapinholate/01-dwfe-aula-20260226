@@ -1,0 +1,9 @@
+.cartao {
+    border: .1rem solid #ccc;
+    border-radius: .5rem;
+    box-shadow: .4rem .3rem .3rem .03rem #eee;
+    display: flex;
+    flex-direction: column;
+    width: 15rem;
+    height: 28rem;
+}
